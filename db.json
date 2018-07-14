@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Caracara, yellow-headed","category":"Red"},
+{"id":2,"name":"Fisher","category":"Pink"},
+{"id":3,"name":"Nelson ground squirrel","category":"Purple"},
+{"id":4,"name":"Western palm tanager (unidentified)","category":"Turquoise"},
+{"id":5,"name":"Eurasian hoopoe","category":"Indigo"},
+{"id":6,"name":"White rhinoceros","category":"Purple"},
+{"id":7,"name":"Bushbaby, large-eared","category":"Red"},
+{"id":8,"name":"Leadbeateri's ground hornbill","category":"Blue"},
+{"id":9,"name":"Hedgehog, south african","category":"Red"},
+{"id":10,"name":"Savannah deer","category":"Goldenrod"},
+{"id":11,"name":"Two-toed tree sloth","category":"Aquamarine"},
+{"id":12,"name":"Magpie, australian","category":"Pink"},
+{"id":13,"name":"Dove, galapagos","category":"Khaki"},
+{"id":14,"name":"Fox, blue","category":"Violet"},
+{"id":15,"name":"Pintail, bahama","category":"Goldenrod"},
+{"id":16,"name":"Egret, cattle","category":"Purple"},
+{"id":17,"name":"Snowy egret","category":"Fuscia"},
+{"id":18,"name":"Stork, woolly-necked","category":"Fuscia"},
+{"id":19,"name":"Pelican, great white","category":"Pink"},
+{"id":20,"name":"Kori bustard","category":"Mauv"}
+]
+}
